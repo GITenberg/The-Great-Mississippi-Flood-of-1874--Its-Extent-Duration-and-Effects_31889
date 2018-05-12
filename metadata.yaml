@@ -1,0 +1,28 @@
+_repo: The-Great-Mississippi-Flood-of-1874--Its-Extent-Duration-and-Effects_31889
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wiltz, Louis Alfred
+    alias: Wiltz, L. A. (Louis Alfred)
+    birthdate: 1843
+    deathdate: 1881
+    gutenberg_agent_id: '35537'
+    url: http://www.gutenberg.org/2009/agents/35537
+description: ''
+gutenberg_issued: '2010-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31889'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Floods -- Mississippi River'
+- !lcc 'F350.5'
+- !lcsh 'Floods -- Louisiana'
+title: 'The Great Mississippi Flood of 1874: Its Extent, Duration, and Effects'
+url: http://www.gutenberg.org/ebooks/31889
