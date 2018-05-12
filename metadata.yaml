@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35537'
     url: http://www.gutenberg.org/2009/agents/35537
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31889#The-Great-Mississippi-Flood-of-1874--Its-Extent-Duration-and-Effects
 gutenberg_issued: '2010-04-05'
 gutenberg_type: Text
 identifiers:
